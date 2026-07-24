@@ -2,11 +2,11 @@
 
 # 👋 Hi, I'm Renuka Eswaran
 
-### Software Engineering Student | Full Stack Developer | Java | Python | Spring Boot | React
+### Software Engineering Student | Full Stack Developer | Java | Python | Embedded Systems & IoT
 
-**Building software that solves real-world problems through clean code, continuous learning, and modern technologies.**
+**Building scalable software, intelligent embedded solutions, and continuously learning modern technologies.**
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Java+Developer;Python+Developer;Spring+Boot+Developer;React+Developer;Full+Stack+Developer;Building+Real-World+Applications;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineering+Student;Full+Stack+Developer;Java+Developer;Python+Developer;Spring+Boot+Developer;React+Developer;Embedded+Systems+%26+IoT;Always+Learning+New+Technologies"/>
 
 <br>
 
@@ -20,11 +20,7 @@
 
 # 👨‍💻 About Me
 
-I'm a Software Engineering student passionate about designing and developing modern applications that are efficient, scalable, and user-friendly.
-
-I enjoy working across the full software development lifecycle—from designing responsive user interfaces to building secure backend services and managing databases.
-
-I believe every project is an opportunity to improve problem-solving skills, write cleaner code, and grow as a software engineer.
+I am a Software Engineering student passionate about building modern software applications and intelligent embedded solutions. I enjoy developing full-stack web applications, backend services, AI-powered tools, and IoT-based systems while continuously improving my problem-solving and software engineering skills.
 
 ---
 
@@ -34,7 +30,7 @@ I believe every project is an opportunity to improve problem-solving skills, wri
 
 **Infosys Springboard – FarmVerse Precision Agriculture Management Platform**
 
-**Tech Stack**
+### Tech Stack
 
 - Java
 - Spring Boot
@@ -45,54 +41,63 @@ I believe every project is an opportunity to improve problem-solving skills, wri
 
 ### Responsibilities
 
-- Developed frontend components using React.
+- Developed frontend modules using React.
 - Built backend functionalities using Spring Boot.
-- Worked with PostgreSQL database integration.
-- Developed RESTful APIs for application modules.
-- Performed testing, debugging, and feature enhancement.
-- Followed software engineering best practices during development.
-- Collaborated on project development and code integration.
+- Integrated PostgreSQL database operations.
+- Developed RESTful APIs.
+- Performed debugging, testing, and feature enhancement.
+- Collaborated using Git and GitHub.
 
 ---
 
-# 🚀 Current Focus
+# 💻 Technical Skills
 
-- 🌱 Full Stack Development
-- ☕ Java Programming
-- 🐍 Python Development
-- ⚛️ React Development
-- 🍃 Spring Boot
-- 🗄️ PostgreSQL & MySQL
-- 📚 Data Structures & Algorithms
-- 💡 Software Engineering
+## 🖥️ Software
+
+- Java
+- Python
+- C
+- HTML5
+- React.js
+- Spring Boot
+- REST APIs
+- PostgreSQL
+- MySQL
 
 ---
 
-# 💻 Tech Stack
+## ⚙️ Hardware
 
-## Programming Languages
+- Embedded Systems
+- Internet of Things (IoT)
+- Tinkercad Circuit Simulation
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,c,javascript,html,css"/>
-</p>
+---
 
-## Frameworks
+## 🛠️ Tools & Platforms
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring,react"/>
-</p>
+- Git
+- GitHub
+- Visual Studio Code
+- Eclipse IDE
+- PostgreSQL
+- MySQL Workbench
+- Tinkercad
 
-## Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
-</p>
+---
 
-## Tools
+## 📚 Core Concepts
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea"/>
-</p>
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms
+- Software Development Life Cycle (SDLC)
+- Database Management Systems (DBMS)
+- RESTful API Development
+- Problem Solving
+- Debugging & Testing
+- Version Control
+- Responsive Web Design
 
 ---
 
@@ -100,23 +105,35 @@ I believe every project is an opportunity to improve problem-solving skills, wri
 
 ## 🌾 FarmVerse
 
-A Precision Agriculture Management Platform developed using **Spring Boot**, **React**, and **PostgreSQL** to simplify farm, crop, and farmer management through a modern web application.
+A Precision Agriculture Management Platform developed using **Spring Boot**, **React**, and **PostgreSQL** to simplify farm and crop management through a modern web application.
 
 ---
 
 ## 🎙️ Offline AI Voice Translator
 
-A Python-based desktop application that performs speech recognition, multilingual translation, and text-to-speech completely offline using AI models.
+An AI-powered desktop application developed using **Python** that performs offline speech recognition, multilingual translation, and text-to-speech.
 
 ---
 
 ## 🌐 Personal Portfolio
 
-A responsive portfolio website showcasing my projects, technical skills, certifications, achievements, and software development journey.
+A responsive personal portfolio showcasing my projects, technical skills, certifications, internship experience, and achievements.
 
 ---
 
-# 📈 GitHub Analytics
+# 🌱 Currently Learning
+
+- Advanced Java
+- Spring Boot
+- React.js
+- Python for AI Applications
+- System Design
+- Microservices
+- Cloud Fundamentals
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -126,44 +143,11 @@ A responsive portfolio website showcasing my projects, technical skills, certifi
 
 </p>
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Renuka18-eswaran&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 Core Skills
-
-- Software Engineering
-- Full Stack Development
-- REST API Development
-- Backend Development
-- Frontend Development
-- Database Management
-- Object-Oriented Programming
-- Problem Solving
-- Clean Code
-- Team Collaboration
-- Git Version Control
-
 ---
 
 # 🎯 Career Objective
 
-To start my career as a Software Engineer where I can apply my technical knowledge, contribute to innovative software solutions, continuously learn emerging technologies, and create applications that deliver real-world value.
-
----
-
-# 📚 Currently Learning
-
-- Advanced Spring Boot
-- Advanced React
-- Microservices
-- System Design
-- Cloud Fundamentals
-- Software Architecture
+To build a successful career as a Software Engineer by creating efficient, scalable, and innovative software solutions while continuously expanding my expertise in software engineering, embedded systems, and emerging technologies.
 
 ---
 
@@ -173,7 +157,7 @@ To start my career as a Software Engineer where I can apply my technical knowled
 
 💻 GitHub: **https://github.com/Renuka18-eswaran**
 
-🌍 Portfolio: **https://renuka18-eswaran.github.io/My-Portfolio/**
+🌐 Portfolio: **https://renuka18-eswaran.github.io/My-Portfolio/**
 
 ---
 
@@ -181,8 +165,8 @@ To start my career as a Software Engineer where I can apply my technical knowled
 
 ## 💡 Developer Philosophy
 
-> **"Great software is built with curiosity, consistency, and continuous improvement."**
+> **"Code with purpose, build with passion, and never stop learning."**
 
-⭐ Thanks for visiting my profile!
+⭐ **Thank you for visiting my GitHub profile!**
 
 </div>
