@@ -10,9 +10,6 @@
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=Renuka18-eswaran&style=for-the-badge&color=blue)
-![](https://img.shields.io/github/followers/Renuka18-eswaran?style=for-the-badge)
-![](https://img.shields.io/github/stars/Renuka18-eswaran?style=for-the-badge)
 
 </div>
 
