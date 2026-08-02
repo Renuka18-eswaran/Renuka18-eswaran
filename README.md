@@ -130,18 +130,6 @@ A responsive personal portfolio showcasing my projects, technical skills, certif
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Renuka18-eswaran&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renuka18-eswaran&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
 # 🎯 Career Objective
 
 To build a successful career as a Software Engineer by creating efficient, scalable, and innovative software solutions while continuously expanding my expertise in software engineering, embedded systems, and emerging technologies.
