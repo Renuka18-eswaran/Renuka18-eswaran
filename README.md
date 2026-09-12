@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Renuka Eswaran
 
-### Software Engineering Student | Full Stack Developer | Java | Python | Embedded Systems & IoT
+### Software Engineering Student | Java | Python | Embedded Systems & IoT
 
 **Building scalable software, intelligent embedded solutions, and continuously learning modern technologies.**
 
@@ -78,7 +78,6 @@ I am a Software Engineering student passionate about building modern software ap
 - Visual Studio Code
 - Eclipse IDE
 - PostgreSQL
-- MySQL Workbench
 - Tinkercad
 
 
@@ -87,7 +86,6 @@ I am a Software Engineering student passionate about building modern software ap
 ## 📚 Core Concepts
 
 - Object-Oriented Programming (OOP)
-- Data Structures & Algorithms
 - Software Development Life Cycle (SDLC)
 - Database Management Systems (DBMS)
 - RESTful API Development
