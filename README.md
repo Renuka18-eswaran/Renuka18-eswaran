@@ -54,7 +54,6 @@ I am a Software Engineering student passionate about building modern software ap
 - Java
 - Python
 - C
-- HTML5
 - React.js
 - Spring Boot
 - REST APIs
